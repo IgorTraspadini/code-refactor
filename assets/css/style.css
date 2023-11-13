@@ -79,7 +79,8 @@ figure {
     margin-left: 25px;
 }
 
-.content {
+/* changed the content class to main element*/
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
